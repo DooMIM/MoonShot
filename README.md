@@ -2,8 +2,8 @@
 
 ## Description
 
-One of the Projects that i have made while following along with Paul Hudson’s 100 Days of SwiftUI course. 
-This project is an ios app that let users learn about NASA's Apollo space program as well as the astronauts that particpitated in each mission.
+One of the projects I did as part of Paul Hudson's 100 Day SwiftUI course.
+This project is an IOS app that allows users to learn more about NASA's Apollo space program and the astronauts who participated in each mission.
 
 ## Technology 
 
